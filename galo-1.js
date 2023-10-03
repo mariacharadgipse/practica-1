@@ -1,1 +1,1 @@
-let variable=0
+let variable = [ asfa,afsaf]
